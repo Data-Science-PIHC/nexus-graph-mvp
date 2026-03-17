@@ -1,0 +1,14 @@
+code,name,location_type,region,province,is_active
+P101,Plant Bontang,L1_Plant,Kalimantan Timur,Kalimantan Timur,True
+P102,Plant Gresik,L1_Plant,Jawa Timur,Jawa Timur,True
+PORT1,Pelabuhan Lembar,Port,Lombok Barat,NTB,True
+PORT2,Pelabuhan Tanjung Perak,Port,Surabaya,Jawa Timur,True
+L2A,GD Carisma Lembar,L2_Warehouse,Lombok Barat,NTB,True
+L2B,GD Central Surabaya,L2_Warehouse,Surabaya,Jawa Timur,True
+L3A1,GD PKT Lombok Barat,L3_Warehouse,Lombok Barat,NTB,True
+L3A2,GD PKT Lombok Tengah,L3_Warehouse,Lombok Tengah,NTB,True
+L3A3,GD PKT Mataram,L3_Warehouse,Mataram,NTB,True
+L3B1,GD PKT Surabaya Barat,L3_Warehouse,Surabaya Barat,Jawa Timur,True
+L3B2,GD PKT Sidoarjo,L3_Warehouse,Sidoarjo,Jawa Timur,True
+L3H1,GD Hub Sumbawa,L3_Warehouse,Sumbawa,NTB,True
+L3H2,GD Hub Probolinggo,L3_Warehouse,Probolinggo,Jawa Timur,True

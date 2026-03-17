@@ -1,0 +1,1 @@
+scenario_id,from_node,from_label,to_node,to_label,leg_id,origin_cost_per_ton,leg_cost_per_ton,destination_cost_per_ton,cost_per_ton,currency,pricing_date,included_contract_ids,is_active
