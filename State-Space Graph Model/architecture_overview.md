@@ -47,7 +47,7 @@ Sistem memiliki mekanisme untuk memutus jalur hantu. Sebuah operasi `MOVE` hanya
 ## 4. Mekanisme Pathfinding (EFFECTIVE_MOVE)
 Untuk menjamin performa tinggi, sistem menggunakan teknik dua tahap:
 1.  **Effective Generation**: Men-generate relasi **`EFFECTIVE_MOVE`** yang sudah menggabungkan seluruh komponen biaya (Handling + Survey + Freight, dll) menjadi satu angka final per-ton.
-2.  **Route Optimization**: Pencarian rute tercepat/termurah dilakukan di atas layer `EFFECTIVE_MOVE` yang sudah "matang".
+2.  **Route Optimization**: Pencarian rute tercepat/termurah dilakukan di atas layer `EFFECTIVE_MOVE`.
 
 ---
 *Dokumen ini merupakan panduan teknis operasional Nexus Graph State-Space Model.*
